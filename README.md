@@ -1,3 +1,3 @@
 # option-bot
 
-Описание проекта
+project decription
